@@ -1,5 +1,5 @@
 # llms :speech_balloon:
-Playing around large language models.
+Playing around with large language models.
 
 ## Sources
 Code borrowed liberally from:
