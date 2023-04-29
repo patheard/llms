@@ -3,6 +3,7 @@ Playing around with large language models.
 
 ## Examples
 - [Summarize](./summarize/README.md)
+- [Transcribe](./transcribe/README.md)
 
 ## Sources
 Code borrowed liberally from:
