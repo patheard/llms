@@ -1,4 +1,4 @@
-# Summarize :notebook:
+# Summarize :open_book:
 Takes a long text and summarizes it.  Does this by:
 1. Splitting the text into fixed sized token chunks with some overlap.
 1. Summarizes each chunk.

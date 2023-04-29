@@ -1,6 +1,9 @@
 # llms :speech_balloon:
 Playing around with large language models.
 
+## Examples
+- [Summarize](./summarize/README.md)
+
 ## Sources
 Code borrowed liberally from:
 - [LangChain docs](https://docs.langchain.com/docs/)
