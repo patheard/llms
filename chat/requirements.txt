@@ -1,0 +1,4 @@
+black==23.3.0
+gradio==3.28.1
+llama-index==0.5.27
+python-dotenv==1.0.0

@@ -2,6 +2,7 @@
 Playing around with large language models.
 
 ## Examples
+- [Chat](./chat/README.md)
 - [Ingest](./ingest/README.md)
 - [Summarize](./summarize/README.md)
 - [Transcribe](./transcribe/README.md)
